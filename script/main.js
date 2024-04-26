@@ -6,3 +6,8 @@ miSubtitulo.textContent = 'Bienvenidos a mi página web';
 
 const miParrafo = document.querySelector('p');
 miParrafo.textContent = 'Esta página web es un proyecto de aprendizaje de HTML, CSS y JavaScript.';
+
+const
+    miBoton = document.querySelector('button');
+    miImagen = document.querySelector('img');
+    
